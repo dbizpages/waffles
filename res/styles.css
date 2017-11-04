@@ -46,6 +46,16 @@ section {
   padding: 20px;
 }
 
+.logo {
+max-width: 360px;
+background-color: #000000;
+display: inline-block;
+}
+
+.info {
+ display: inline-block; 
+}
+
 .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
