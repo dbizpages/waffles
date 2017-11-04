@@ -89,7 +89,11 @@ section {
   top: 50%;
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
-  background: rgba(2,23,55,.9);
+  background: #FFFFFF;
+}
+
+.waffle-photo, .fb-page {
+display:inline-block; 
 }
 
 @media all and (max-width: 480px) {
