@@ -41,6 +41,7 @@ section {
 
 .content {
   margin:0 auto;
+  max-width: 1070px;
 }
 
 .form-horizontal .form-group {
@@ -96,6 +97,14 @@ section {
 .waffle-photo, .fb-page {
 display:inline-block;
 vertical-align: top;
+}
+
+.waffle-photo {
+ max-width: 100%;
+}
+
+.fb-page {
+ max-width: 100%; 
 }
 
 @media all and (max-width: 480px) {
