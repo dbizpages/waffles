@@ -42,6 +42,8 @@ section {
 .content {
   margin:0 auto;
   max-width: 1070px;
+  box-sizing: content-box;
+  padding: 20px;
 }
 
 .form-horizontal .form-group {
