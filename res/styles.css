@@ -47,13 +47,18 @@ section {
 }
 
 .logo {
-max-width: 360px;
+max-width: 160px;
 background-color: #000000;
 display: inline-block;
 }
 
+.logo img {
+ width: 100%; 
+}
+
 .info {
- display: inline-block; 
+ display: inline-block;
+ padding: 0 20px;
 }
 
 .form-horizontal .form-group {
