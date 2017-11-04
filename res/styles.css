@@ -90,7 +90,8 @@ section {
 }
 
 .waffle-photo, .fb-page {
-display:inline-block; 
+display:inline-block;
+vertical-align: top;
 }
 
 @media all and (max-width: 480px) {
