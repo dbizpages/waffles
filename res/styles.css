@@ -39,6 +39,11 @@ section {
   z-index: 0;
 }
 
+.content {
+ width: 90%;
+  margin:0 auto;
+}
+
 .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
