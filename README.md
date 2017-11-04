@@ -1,7 +1,5 @@
-# landing-page-boilerplate
-
 A pure client-side landing page template that you can freely fork, customize, host and link to your own domain name (e.g. using Github Pages).
-Relies on Mailchimp (for user email subscriptions) and Google Analytics (for stats).
+Uses an embedded Mailchimp form (for user email subscriptions) and Google Analytics code (for stats).
 
 # Features
 
