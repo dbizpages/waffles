@@ -78,6 +78,10 @@ margin-top: 30px;
 text-align: center;
 }
 
+.social-buttons a, .social-buttons a:hover {
+ color: #000000; 
+}
+
 .form-horizontal .form-group {
   margin-right: 0;
   margin-left: 0;
