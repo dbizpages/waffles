@@ -49,6 +49,7 @@ section {
 max-width: 160px;
 background-color: #000000;
 display: inline-block;
+vertical-align: top;
 }
 
 .logo img {
@@ -57,7 +58,9 @@ display: inline-block;
 
 .info {
  display: inline-block;
+ max-width: 880px;
  padding: 0 20px;
+ vertical-align: top;
 }
 
 .waffle-photo, .fb-page {
