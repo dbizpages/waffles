@@ -45,6 +45,11 @@ section {
   padding: 0 20px;
 }
 
+.content p {
+    line-height: 28px;
+    font-size: 20px;
+}
+
 .logo {
 max-width: 160px;
 background-color: #000000;
